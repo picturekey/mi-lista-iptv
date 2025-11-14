@@ -10,34 +10,36 @@ on:
 
 jobs:
   build-playlist:
-    runs-on: ubuntu-latest # Usar una máquina virtual de Linux
+    runs-on: ubuntu-latest
 
     steps:
-      # 1. Descarga el código de tu repositorio (generate_m3u.py, etc.)
+      # 1. Checkout del repositorio
       - name: Checkout del repositorio
         uses: actions/checkout@v4
 
-      # 2. Configura el entorno de Python
+      # 2. Configurar Python
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10' # Usar Python 3.10
+          python-version: '3.10'
 
-      # 3. Instala las dependencias (la biblioteca 'requests')
+      # 3. Instalar dependencias
       - name: Instalar dependencias
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
-      # 4. Ejecuta tu script de Python para crear el archivo 'playlist.m3u8'
+      # 4. Ejecutar script de generación
       - name: Ejecutar script de generación
         run: python generate_m3u.py
 
-      # 5. Guarda el archivo 'playlist.m3u8' de vuelta en el repositorio
+      # 5. Hacer commit y push de los cambios (AQUÍ ESTÁ LA CORRECCIÓN)
       - name: Hacer commit y push de los cambios
-        uses: stefanbuck/github-action-git-auto-commit@v5
+        #                                  👇
+        uses: github-actions-ecosystem/action-git-auto-commit@v5
+        #                                  👆
         with:
           commit_message: '🤖 (Auto) Actualizar playlist.m3u8'
-          file_pattern: 'playlist.m3u8' # Solo guarda los cambios de este archivo
+          file_pattern: 'playlist.m3u8'
           commit_user_name: 'GitHub Actions Bot'
           commit_user_email: 'actions@github.com'
