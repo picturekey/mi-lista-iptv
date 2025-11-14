@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout (este también necesita versión, ej: @v4)
+      # 1. Checkout del repositorio
       - name: Checkout del repositorio
         uses: actions/checkout@v4
 
-      # 2. Configurar Python (este también necesita versión, ej: @v5)
+      # 2. Configurar Python
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
@@ -30,12 +30,17 @@ jobs:
       - name: Ejecutar script de generación
         run: python generate_m3u.py
 
-      # 5. Hacer commit y push (AQUÍ ESTÁ LA CORRECCIÓN CLAVE)
+      # --- CAMBIO AQUÍ ---
+      # 5. Hacer commit y push con una acción alternativa
       - name: Hacer commit y push de los cambios
-        # Asegúrate de que esta línea sea EXACTAMENTE así 👇
-        uses: github-actions-ecosystem/action-git-auto-commit@v5
+        uses: EndBug/add-and-commit@v9 # Usamos v9, que es la más reciente
         with:
-          commit_message: '🤖 (Auto) Actualizar playlist.m3u8'
-          file_pattern: 'playlist.m3u8'
-          commit_user_name: 'GitHub Actions Bot'
-          commit_user_email: 'actions@github.com'
+          # El patrón de archivo para añadir.
+          add: 'playlist.m3u8'
+          
+          # El mensaje de commit
+          message: '🤖 (Auto) Actualizar playlist.m3u8'
+          
+          # Nombre y email del autor del commit
+          author_name: 'GitHub Actions Bot'
+          author_email: 'actions@github.com'
