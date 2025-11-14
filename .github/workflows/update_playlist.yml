@@ -1,10 +1,7 @@
 name: Actualizar Playlist M3U8 Automáticamente
 
 on:
-  # 1. Permite ejecutarlo manualmente desde la pestaña "Actions" de GitHub
   workflow_dispatch:
-  
-  # 2. Lo ejecuta automáticamente todos los días a las 6:00 AM UTC
   schedule:
     - cron: '0 6 * * *'
 
@@ -13,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout del repositorio
+      # 1. Checkout (este también necesita versión, ej: @v4)
       - name: Checkout del repositorio
         uses: actions/checkout@v4
 
-      # 2. Configurar Python
+      # 2. Configurar Python (este también necesita versión, ej: @v5)
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
@@ -33,11 +30,10 @@ jobs:
       - name: Ejecutar script de generación
         run: python generate_m3u.py
 
-      # 5. Hacer commit y push de los cambios (AQUÍ ESTÁ LA CORRECCIÓN)
+      # 5. Hacer commit y push (AQUÍ ESTÁ LA CORRECCIÓN CLAVE)
       - name: Hacer commit y push de los cambios
-        #                                  👇
+        # Asegúrate de que esta línea sea EXACTAMENTE así 👇
         uses: github-actions-ecosystem/action-git-auto-commit@v5
-        #                                  👆
         with:
           commit_message: '🤖 (Auto) Actualizar playlist.m3u8'
           file_pattern: 'playlist.m3u8'
