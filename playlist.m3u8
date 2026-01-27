@@ -1495,8 +1495,6 @@ https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="General",Az TV
 http://109.205.166.68/server124/aztv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
-#EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General",Azad TV
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 #EXTINF:-1 tvg-id="AzaharesRadiovisualMultimedia.ar" tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="Music",Azahares Radiovisual Multimedia
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7
@@ -2022,7 +2020,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.us" tvg-logo="https://i.imgur.com/5kdG4Dm.png" group-title="Entertainment",Best of The Drew Barrymore Show
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6310cbee5a8ad300070fdb7c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a40-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=223866bd-0f1f-4f33-9986-65de6978421c
 #EXTINF:-1 tvg-id="BestClasicosTV.cr" tvg-logo="https://i.imgur.com/a/BRb8AVL.png" group-title="Sin categoría",BestClasicosTV
-https://acceso.radiosportstv.online:3102/live/telemascrlive.m3u8
+https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8
 #EXTINF:-1 tvg-id="Beteve.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logotip_betev%C3%A9.svg/512px-Logotip_betev%C3%A9.svg.png" group-title="Sin categoría",Beteve
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:-1 tvg-id="BethelTV.pe" tvg-logo="https://i.imgur.com/zCVh765.png" group-title="Religious",Bethel TV
@@ -2567,11 +2565,11 @@ https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International
 https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://i.postimg.cc/L8LfB69D/cnbc.png" group-title="Business",CNBC
+#EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg" group-title="Business",CNBC
 https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
-#EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="Business",CNBC Africa
+#EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/CNBC_Africa_2025.svg" group-title="Business",CNBC Africa
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-logo="https://i.imgur.com/opBXx1K.png" group-title="Business",CNBC Arabiya
+#EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/CNBC_Arabia_-_New_Logo.png" group-title="Business",CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="Business",CNBC Asia
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
@@ -3023,8 +3021,6 @@ https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-logo="https://i.imgur.com/TNciMh2.png" group-title="Sin categoría",Canal 9
 https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
-#EXTINF:-1 tvg-id="Canal9.cr" tvg-logo="https://i.imgur.com/7knekJU.png" group-title="General",Canal 9
-http://201.201.149.86:8080/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-logo="https://i.imgur.com/J2G1WMs.png" group-title="Sin categoría",Canal 9 Bio-Bio Television
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Sin categoría",Canal 9 Litoral
@@ -8822,7 +8818,7 @@ https://webstreaming.viewmedia.tv/web_026/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MorroBayChannel20.us" tvg-logo="https://i.imgur.com/UZeC6xH.png" group-title="Legislative",Morro Bay Channel 20
 https://agp-nimble.streamguys1.com/MBCh20/MBCh20/playlist.m3u8
 #EXTINF:-1 tvg-id="MorroTV.do" tvg-logo="" group-title="General",MorroTV
-https://soportedvb.click:3257/live/morrotvlive.m3u8
+https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="MosObrTV.ru" tvg-logo="https://i.imgur.com/t6PmOD5.png" group-title="Education",MosObrTV
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="Music",Mosaique FM
@@ -11754,7 +11750,7 @@ https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Music",Radio Tropical
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr" tvg-logo="https://i.imgur.com/2ZcUXbE.png" group-title="Sports",Radio Turrialba TV Sports
-https://live21.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8
+https://server2.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioUTV.us" tvg-logo="https://i.imgur.com/HjZpC1V.png" group-title="Music",Radio U TV
 https://1826200335.rsc.cdn77.org/1826200335/index.m3u8
 #EXTINF:-1 tvg-id="RadioVeronica.nl" tvg-logo="https://i.imgur.com/6RUOHUh.png" group-title="Sin categoría",Radio Veronica
@@ -14771,34 +14767,34 @@ https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR.fr" tvg-logo="https://www.tvr.bzh/favicon-1024.png" group-title="Sin categoría",TVR
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-logo="https://i.imgur.com/CcUX1gB.png" group-title="General",TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVR2.ro" tvg-logo="https://i.imgur.com/mKouHIZ.png" group-title="General",TVR 2
-https://tvr-tvr2.cdn.zitec.com/live/tvr2/main.m3u8
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVR3.ro" tvg-logo="https://i.imgur.com/yHCuTap.png" group-title="General",TVR 3
-https://tvr-tvr3.cdn.zitec.com/live/tvr3/main.m3u8
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRCluj.ro" tvg-logo="https://i.imgur.com/RkDra93.png" group-title="General",TVR Cluj
-https://tvr-tvrcluj.cdn.zitec.com/live/tvrcluj/main.m3u8
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRCraiova.ro" tvg-logo="https://i.imgur.com/vxWbQiy.png" group-title="General",TVR Craiova
-https://tvr-tvrcraiova.cdn.zitec.com/live/tvrcraiova/main.m3u8
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRCultural.ro" tvg-logo="https://i.imgur.com/U9i70C9.png" group-title="Culture",TVR Cultural
-https://tvr-tvrcultural.cdn.zitec.com/live/tvrcultural/main.m3u8
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRFolclor.ro" tvg-logo="https://i.postimg.cc/9Mj6C2Ff/tvrfolclor.png" group-title="General",TVR Folclor
-https://tvr-tvrfolclor.cdn.zitec.com/live/tvrfolclor/main.m3u8
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRIasi.ro" tvg-logo="https://i.imgur.com/Kxkihds.png" group-title="General",TVR Iasi
 https://tvr-tvriasi.cdn.zitec.com/live/tvriasi/main.m3u8
 #EXTINF:-1 tvg-id="TVRInfo.ro" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title="News",TVR Info
-https://tvr-tvrinfo.cdn.zitec.com/live/tvrinfo/main.m3u8
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRInternational.ro" tvg-logo="https://i.imgur.com/w28wcHs.png" group-title="General",TVR International
-https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
+https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
 #EXTINF:-1 tvg-id="TVRMoldova.md" tvg-logo="https://i.imgur.com/wDe9gL2.png" group-title="General",TVR Moldova
 https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
 #EXTINF:-1 tvg-id="TVRParlemen.id" tvg-logo="https://i.imgur.com/2XYpmHL.png" group-title="Legislative",TVR Parlemen
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro" tvg-logo="https://i.postimg.cc/x1w73QmP/tvrsport.png" group-title="General",TVR Sport
-https://tvr-tvrsport.cdn.zitec.com/live/tvrsport/main.m3u8
-#EXTINF:-1 tvg-id="TVRTarguMures.ro" tvg-logo="https://i.imgur.com/9Hptdqj.png" group-title="General",TVR Targu-Mures
-https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRTimisoara.ro" tvg-logo="https://i.imgur.com/0x6Edei.png" group-title="General",TVR Timisoara
-https://tvr-tvrtimisoara.cdn.zitec.com/live/tvrtimisoara/main.m3u8
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://i.postimg.cc/NM7W0n5k/tvri.png" group-title="General",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://i.postimg.cc/PrqBt2h1/tvrisport.png" group-title="Sports",TVRI Sport
@@ -15494,7 +15490,7 @@ http://121.91.61.106:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="TenGerTV.mn" tvg-logo="https://i.imgur.com/MmPvkcO.png" group-title="General",TenGer TV
 https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8
 #EXTINF:-1 tvg-id="TenarensesTV.do" tvg-logo="https://i.imgur.com/cPIgs0v.png" group-title="General",Tenarenses TV
-https://vdo2.streamgato.us:3305/live/tenarensestvrdlive.m3u8
+https://mlb.essastream.com:8081/tenarensestvrd/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Ternopil1.ua" tvg-logo="https://i.imgur.com/f5EtIzV.png" group-title="News",Ternopil 1
@@ -16213,10 +16209,6 @@ https://5b48d7e1b4bce.streamlock.net/myapp/vtvlive/playlist.m3u8
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV1.vn" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="Sin categoría",VTV1
 https://tv.ddns.vn/tv/vtv1fhd/index.m3u8
-#EXTINF:-1 tvg-id="VTV2.vn" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="Sin categoría",VTV2
-https://tv.ddns.vn/tv/vtv2fhd/index.m3u8
-#EXTINF:-1 tvg-id="VTV3.vn" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="Sin categoría",VTV3
-https://tv.ddns.vn/tv/vtv3fhd/index.m3u8
 #EXTINF:-1 tvg-id="VTV4.vn" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="Sin categoría",VTV4
 https://tv.ddns.vn/tv/vtv4fhd/index.m3u8
 #EXTINF:-1 tvg-id="VTV5.vn" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="Sin categoría",VTV5
@@ -16718,7 +16710,7 @@ https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playl
 #EXTINF:-1 tvg-id="WNBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="Sin categoría",WNBC-DT1
 https://fl61.moveonjoy.com/NY_New_York_NBC/mpegts
 #EXTINF:-1 tvg-id="WNETDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="Sin categoría",WNET-DT1
-https://e5.thetvapp.to/hls/WNET/index.m3u8
+https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 tvg-id="WNJTDT1.us" tvg-logo="" group-title="Sin categoría",WNJT-DT1
 https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Sin categoría",WNJU-DT1
@@ -17423,6 +17415,8 @@ https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8
 https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="i24NEWSArabic.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News",i24NEWS Arabic
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-id="i24NEWSEnglishUSA.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News",i24NEWS English USA
+https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
 #EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News",i24NEWS English World
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-id="i24NEWSFrench.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News",i24NEWS French
