@@ -7919,6 +7919,8 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
 #EXTINF:-1 tvg-id="LoveTelevision.bz" tvg-logo="https://i.imgur.com/nT3Wxr6.png" group-title="News",Love Television
 https://streamer2.nexgen.bz/01-LOVE/index.m3u8
+#EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-logo="https://i.imgur.com/RBcD49X.png" group-title="Documentary",Love The Planet
+https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveinVenice.it" tvg-logo="https://i.imgur.com/Jv4WiO6.png" group-title="Travel",Love in Venice
 https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveWorldArabic.ng" tvg-logo="https://i.imgur.com/KYMjRjK.png" group-title="Religious",LoveWorld Arabic
@@ -11841,8 +11843,6 @@ https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
 #EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-logo="https://dtil.tmsimg.com/assets/s143708_ld_h15_aa.png" group-title="Music",Raj Musix Telugu
 https://cdn-1.pishow.tv/live/1213/master.m3u8
-#EXTINF:-1 tvg-id="RajNews.in" tvg-logo="https://dtil.tmsimg.com/assets/s143709_ld_h9_ab.png" group-title="News",Raj News
-http://103.140.254.2:3500/live/767.m3u8
 #EXTINF:-1 tvg-id="RajNewsKannada.in" tvg-logo="https://dtil.tmsimg.com/assets/s143710_ld_h15_aa.png" group-title="News",Raj News Kannada
 http://103.140.254.2:3500/live/651.m3u8
 #EXTINF:-1 tvg-id="RajNewsMalayalam.in" tvg-logo="https://dtil.tmsimg.com/assets/s143711_ld_h15_aa.png" group-title="News",Raj News Malayalam
@@ -12359,6 +12359,8 @@ https://livestream.telvue.com/santamariactv3/f7b44cfafd5c52223d5498196c8a2e7b.sd
 http://49.113.179.174:4022/udp/238.125.2.142:5140
 #EXTINF:-1 tvg-id="SMTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" group-title="Sin categoría",SMTV
 http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SNLVault.us" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" group-title="Comedy",SNL Vault
+https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="SNNTV.ir" tvg-logo="https://i.imgur.com/V8DYqMJ.png" group-title="News",SNN TV
 https://live2.snn.ir/hls/snn2_hd720/index.m3u8
 #EXTINF:-1 tvg-id="SNT.py" tvg-logo="https://i.imgur.com/HNlWRiF.png" group-title="Sin categoría",SNT
@@ -12795,6 +12797,8 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SharqRadioTV.af" tvg-logo="https://i.postimg.cc/bNCcfQjs/sharqradiotv.png" group-title="General",Sharq Radio TV
 https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ShauntheSheepFriends.uk" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b1e2118d-e2f3-4cfe-a227-2b0c7ab664e5/Shaunthesheepandfriends_a_476x476_-_cleo_Parfitt-StarRDXr.png" group-title="Animation",Shaun the Sheep & Friends
+https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
 #EXTINF:-1 tvg-id="ShayanTV.ru" tvg-logo="https://i.imgur.com/CvFwczN.png" group-title="Sin categoría",Shayan TV
 https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
 #EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru" tvg-logo="https://i.imgur.com/0us6l04.png" group-title="Sin categoría",Shchyolkovskoe TV
@@ -13349,8 +13353,6 @@ http://103.78.149.54:8000/play/a00y/index.m3u8
 http://103.140.254.2:3500/live/676.m3u8
 #EXTINF:-1 tvg-id="SunRTV.tr" tvg-logo="https://i.imgur.com/64tph9N.png" group-title="Sin categoría",Sun RTV
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
-#EXTINF:-1 tvg-id="SunTV.in" tvg-logo="https://dtil.tmsimg.com/assets/s158021_ld_h15_aa.png" group-title="Entertainment",Sun TV
-https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-logo="https://i.postimg.cc/MT3Dshtd/sundancetv.png" group-title="Movies",Sundance TV
 https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-id="SunnaTV.ng" tvg-logo="https://i.imgur.com/K2Snk2T.png" group-title="Sin categoría",Sunna TV
@@ -17303,7 +17305,7 @@ https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 http://116.90.120.152:8000/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTVCanada.ca" tvg-logo="https://i.imgur.com/mARKUZ9.png" group-title="Sin categoría",Zee TV Canada
 https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVUK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg" group-title="Sin categoría",Zee TV UK
+#EXTINF:-1 tvg-id="ZeeTVUK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg" group-title="Entertainment",Zee TV UK
 http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/ZEE/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S299.png" group-title="Movies",Zee Talkies
 http://103.52.34.182:8001/play/a04r/index.m3u8
