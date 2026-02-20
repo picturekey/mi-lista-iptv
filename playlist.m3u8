@@ -2243,8 +2243,6 @@ http://123.175.209.52:9003/hls/12/index.m3u8
 http://123.175.209.52:9003/hls/13/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13.cn" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="News",CCTV-13
 https://cdn3.163189.xyz/163189/cctv13
-#EXTINF:-1 tvg-id="CCTV14.cn" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="Kids",CCTV-14
-http://123.175.209.52:9003/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="Music",CCTV-15
 http://123.175.209.52:9003/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16.cn" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="Sports",CCTV-16
@@ -2407,7 +2405,7 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg" group-title="Business",CNBC Europe
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="Business",CNBC Indonesia
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/CNBC_Indonesia_2025.svg" group-title="Business",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-id="CNBCTV18.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00216VH0.png" group-title="Business",CNBC TV18
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
@@ -7157,6 +7155,8 @@ https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeTV.ee" tvg-logo="https://i.imgur.com/JhrTB82.png" group-title="Religious",Life TV
 http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
+#EXTINF:-1 tvg-id="LifeTV.in" tvg-logo="https://i.ibb.co/v1C0bdR/logo-1.png" group-title="Religious",Life TV
+https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 #EXTINF:-1 tvg-id="LifeTV.tr" tvg-logo="https://i.imgur.com/lWeJxm0.png" group-title="News",Life TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeStyleTV.se" tvg-logo="https://i.imgur.com/0mreWrM.jpg" group-title="Religious",LifeStyleTV
@@ -9459,6 +9459,8 @@ https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddc3485efec00085b0369/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f3876-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=09f836b5-3c59-462d-95a2-726c229b62d4
 #EXTINF:-1 tvg-id="PershiyXTVMedia.ua" tvg-logo="https://i.imgur.com/M7oDym3.png" group-title="News",Pershiy XTV Media
 https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
+#EXTINF:-1 tvg-id="Pershyi.ua" tvg-logo="https://i.imgur.com/osTQLED.png" group-title="General",Pershyi
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Movies",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Comedy",Persiana Comedy
@@ -11362,7 +11364,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
 #EXTINF:-1 tvg-id="SamaraGIS.ru" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" group-title="Sin categoría",Samara-GIS
 https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SamayKolkata.in" tvg-logo="https://i.ibb.co/3mrYZDG/cropped-LOGO-web1.jpg" group-title="News",Samay Kolkata
-https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8
+https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 #EXTINF:-1 tvg-id="Samen1TV.nl" tvg-logo="https://i.imgur.com/3ivlnLO.png" group-title="Sin categoría",Samen1 TV
 https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
 #EXTINF:-1 tvg-id="SamiakiTV.gr" tvg-logo="https://i.imgur.com/9Pf1we6.png" group-title="Sin categoría",Samiaki TV
@@ -12173,6 +12175,10 @@ https://stream.sscloud7.com/live/suriyantv/index.m3u8
 https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="SuryaTV.in" tvg-logo="https://dtil.tmsimg.com/assets/s149281_ld_h15_aa.png" group-title="Entertainment",Surya TV
 http://103.229.254.25:7001/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-id="SuspilneKrym.ua" tvg-logo="https://i.imgur.com/m7znCes.png" group-title="General",Suspilne. Krym
+https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
+#EXTINF:-1 tvg-id="SuspilneKultura.ua" tvg-logo="https://i.imgur.com/hHMJV8e.png" group-title="Culture",Suspilne. Kultura
+https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
 #EXTINF:-1 tvg-id="SutelTV.mk" tvg-logo="https://i.imgur.com/hk3lhuF.png" group-title="General",Sutel TV
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
 #EXTINF:-1 tvg-id="SuwannabhumiChannel.th" tvg-logo="https://i.imgur.com/6AGKP0A.png" group-title="Sin categoría",Suwannabhumi Channel
@@ -15097,6 +15103,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
 #EXTINF:-1 tvg-id="WLCT96.us" tvg-logo="https://i.imgur.com/ooby0ka.png" group-title="Legislative",WLCT96
 https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8
+#EXTINF:-1 tvg-id="WLIIDT1.pr" tvg-logo="https://i.ibb.co/KhCnxJB/Crt3P4N.png" group-title="Sin categoría",WLII-DT1
+https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhtYpmFqNO-6TFAEvlr9r53X/m3u8
 #EXTINF:-1 tvg-id="WLIODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Sin categoría",WLIO-DT1
 https://live.field59.com/wlio/wlio1/playlist.m3u8
 #EXTINF:-1 tvg-id="WLMB.us" tvg-logo="https://i.imgur.com/KeELZ1Y.png" group-title="Religious",WLMB
