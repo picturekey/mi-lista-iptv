@@ -1389,6 +1389,8 @@ https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
 https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="Movies",B4U Bhojpuri
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 tvg-id="B4UHitz.in" tvg-logo="" group-title="Music",B4U Hitz
+http://115.42.65.142:9981/stream/channelid/1099703605
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png" group-title="Movies",B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png" group-title="Movies",B4U Movies
@@ -2044,7 +2046,7 @@ https://busuioctv.iforward.eu/hls/busuioc.m3u8
 #EXTINF:-1 tvg-id="BuzzfeedUnsolved.pl" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e16cfcc7-2040-4bd5-8339-16d499f8799e-width200-quality90.png" group-title="Sin categoría",Buzzfeed Unsolved
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png" group-title="Entertainment",Buzzr
-https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playlist.m3u8
+https://buzzrota-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CMalayalamTV.ca" tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="Culture",C Malayalam TV
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://i.imgur.com/w4kAX1V.png" group-title="Entertainment",C Star
@@ -2968,7 +2970,7 @@ https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 #EXTINF:-1 tvg-id="Carivision.do" tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="News",Carivision
 https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="Kids",Carousel
-http://31.148.48.15/Karusel_HD/index.m3u8
+https://streaming.televizor-24-tochka.ru/live/11.m3u8
 #EXTINF:-1 tvg-id="CarouselInternational.ru" tvg-logo="https://i.imgur.com/DnlngRZ.png" group-title="Kids",Carousel International
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-id="CarsTV.us" tvg-logo="https://i.imgur.com/JLSHiTp.png" group-title="Auto",Cars.TV
@@ -4208,7 +4210,7 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="EVITV.cd" tvg-logo="https://i.imgur.com/fBc9JSM.png" group-title="Entertainment",EVI TV
 https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8
 #EXTINF:-1 tvg-id="EWTN.de" tvg-logo="https://i.imgur.com/NXeygNk.png" group-title="Religious",EWTN
-https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Religious",EWTN
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNEspana.es" tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="Religious",EWTN Espana
@@ -5398,7 +5400,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/
 #EXTINF:-1 tvg-id="HenanTVSatellite.cn" tvg-logo="https://i.imgur.com/IBW26kV.png" group-title="Sin categoría",Henan TV Satellite
 http://118.81.195.79:9003/hls/30/index.m3u8
 #EXTINF:-1 tvg-id="HermanasMirabalTV.do" tvg-logo="https://i.imgur.com/cbKgcGh.png" group-title="News",Hermanas Mirabal TV
-https://cnn.essastream.com:3091/live/hmtvlive.m3u8
+https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 #EXTINF:-1 tvg-id="Hero.fi" tvg-logo="https://i.imgur.com/4t5JQLY.png" group-title="Movies",Hero
 https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="HersonPlyus.ua" tvg-logo="https://i.imgur.com/DKDVoyD.png" group-title="General",Herson Plyus
@@ -7145,6 +7147,10 @@ https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m
 https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveWorldPersia.ng" tvg-logo="https://i.imgur.com/Vd2xPxh.png" group-title="Religious",LoveWorld Persia
 https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveWorldUK.ng" tvg-logo="https://i.imgur.com/JgHbDmF.png" group-title="Religious",LoveWorld UK
+https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveWorldUSA.ng" tvg-logo="" group-title="Religious",LoveWorld USA
+https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Loversenykozvetites.hu" tvg-logo="https://i.imgur.com/IGajR6G.png" group-title="Sports",Loverseny kozvetites
 http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveworldSAT.ng" tvg-logo="https://i.imgur.com/Fg65XCS.png" group-title="Religious",LoveworldSAT
@@ -9420,13 +9426,15 @@ https://live-cf-polimernews.dailyhunt.in/master.m3u8
 #EXTINF:-1 tvg-id="PolimerTV.in" tvg-logo="https://dtil.tmsimg.com/assets/s143665_ld_h15_aa.png" group-title="Entertainment",Polimer TV
 https://cdn-2.pishow.tv/live/1241/master.m3u8
 #EXTINF:-1 tvg-id="Polsat.pl" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="General",Polsat
-https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+https://cdn-s-lb2.pluscdn.pl/ch/1502600/308/hls/b399c955/masterlist.m3u8
 #EXTINF:-1 tvg-id="Polsat2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/512px-Polsat_2_2021_gradient.svg.png" group-title="General",Polsat 2
 http://87.106.2.165:8443/freetv/polsat2/index.m3u8
 #EXTINF:-1 tvg-id="PolsatNews.pl" tvg-logo="https://i.imgur.com/sx1yPuc.png" group-title="News",Polsat News
 http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 #EXTINF:-1 tvg-id="PolsatNewsPolityka.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="News",Polsat News Polityka
 https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
+#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/353px-Polsat_Sport_1_2024.svg.png" group-title="Sin categoría",Polsat Sport 1
+http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
 #EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-logo="https://i.imgur.com/TUcM0oS.png" group-title="Documentary",Polsat Viasat Nature
 https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw.m3u8
 #EXTINF:-1 tvg-id="PomonaInternetStreamingChannel.us" tvg-logo="https://i.imgur.com/80gaUbq.png" group-title="Sin categoría",Pomona Internet Streaming Channel
@@ -14116,7 +14124,7 @@ https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Movies",USA Network
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="USATODAY.us" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="News",USA TODAY
-https://usatodaynews-xumo.amagi.tv/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="Culture",USMPTV
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-id="UStad.nl" tvg-logo="https://i.imgur.com/9F8ieEz.png" group-title="Sin categoría",UStad
@@ -14804,7 +14812,7 @@ http://68.251.105.81:5004/auto/v11.3
 #EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Entertainment",WTV Canal 20
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1 tvg-id="WTVJDT1.us" tvg-logo="https://i.imgur.com/p3HXpSv.png" group-title="Sin categoría",WTVJ-DT1
-https://amg00884-nbcuniversal-nbcnsf-pcr-xumo-78jf2.amagi.tv/playlist.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
 #EXTINF:-1 tvg-id="WTVQDT1.us" tvg-logo="https://i.imgur.com/XIoBeja.png" group-title="Sin categoría",WTVQ-DT1
 https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
 #EXTINF:-1 tvg-id="WTVRDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Sin categoría",WTVR-DT1
