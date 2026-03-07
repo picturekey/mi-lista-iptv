@@ -2745,6 +2745,8 @@ https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
 #EXTINF:-1 tvg-id="Canal5TVCozumel.mx" tvg-logo="https://i.imgur.com/0nzNMuP.jpeg" group-title="General",Canal 5 TV Cozumel
 https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
+#EXTINF:-1 tvg-id="Canal5TVMax.py" tvg-logo="https://i.imgur.com/6oihaDM.png" group-title="General",Canal 5 TV Max
+https://video.wilohosting.com:19360/tvmax/tvmax.m3u8
 #EXTINF:-1 tvg-id="Canal55TelemoriscoTV.co" tvg-logo="https://i.imgur.com/9BwZyhM.jpg" group-title="General",Canal 55 Telemorisco TV
 http://canal.mediaserver.com.co/live/telemorisco.m3u8
 #EXTINF:-1 tvg-id="Canal56.do" tvg-logo="https://i.imgur.com/HcLs5eM.png" group-title="General",Canal 56
@@ -5137,6 +5139,8 @@ https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
 http://1.24.190.98:10080/hls/51/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-logo="https://dtil.tmsimg.com/assets/s143087_ld_h15_aa.png?lock=720x540" group-title="Movies",Goldmines
 http://103.78.149.54:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="Goldmines2.in" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png" group-title="Movies",Goldmines 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="Movies",Goldmines Movies
 http://103.78.149.54:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="Sports",Golf Channel
@@ -7260,7 +7264,7 @@ https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 #EXTINF:-1 tvg-id="LotteOneTV.kr" tvg-logo="https://i.imgur.com/bXe7tYE.png" group-title="Shop",Lotte OneTV
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 #EXTINF:-1 tvg-id="LotusTV.mo" tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="General",Lotus TV
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="LougaTV.sn" tvg-logo="https://i.ibb.co/xXZ5kFy/unnamed.jpg" group-title="General",Louga TV
 https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor",Love Nature
@@ -11431,8 +11435,6 @@ http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
 #EXTINF:-1 tvg-id="Seven.ru" tvg-logo="https://i.imgur.com/GpCwqUF.png" group-title="Sin categoría",Seven
 http://31.148.48.15/7TV/index.m3u8
-#EXTINF:-1 tvg-id="SevenChannel.mn" tvg-logo="https://i.imgur.com/9Ld5ATz.png" group-title="General",Seven Channel
-https://cdn4.skygo.mn/live/disk1/TV7/HLS-FTA/TV7.m3u8
 #EXTINF:-1 tvg-id="Sever.ru" tvg-logo="https://i.imgur.com/sTOQLYl.png" group-title="Sin categoría",Sever
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SevillaFCTV.es" tvg-logo="https://i.imgur.com/yujGVbm.png" group-title="Sin categoría",Sevilla FC TV
@@ -11893,6 +11895,8 @@ http://103.113.103.202:8001/play/a02q/index.m3u8
 http://111.88.78.21:8000/play/a0zd/index.m3u8
 #EXTINF:-1 tvg-id="StarTV.ch" tvg-logo="https://i.imgur.com/04y9wz8.png" group-title="Sin categoría",Star TV
 https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8
+#EXTINF:-1 tvg-id="StarTV.mn" tvg-logo="https://i.imgur.com/R6hxJgl.png" group-title="General",Star TV
+https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
 #EXTINF:-1 tvg-id="StarTamilTelevision.lk" tvg-logo="https://i.imgur.com/fjHcr9z.jpg" group-title="Movies",Star Tamil Television
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
 #EXTINF:-1 tvg-id="StarUtsav.in" tvg-logo="https://dtil.tmsimg.com/assets/s159132_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Star Utsav
