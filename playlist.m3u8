@@ -195,8 +195,6 @@ https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 #EXTINF:-1 tvg-id="3CatInfo.es" tvg-logo="https://statics.3cat.cat/img/logos/3CatInfo_negre.svg" group-title="News",3CatInfo
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-id="3HD.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="General",3HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
 #EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png" group-title="General",3sat
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
 #EXTINF:-1 tvg-id="4Afghanistan.fr" tvg-logo="" group-title="Sin categoría",4 Afghanistan
@@ -3003,6 +3001,8 @@ https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
 #EXTINF:-1 tvg-id="CanalProvincial.ar" tvg-logo="https://i.imgur.com/bXHHtcb.png" group-title="General",Canal Provincial
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-id="CanalPyC.co" tvg-logo="https://i.imgur.com/3qxBDhV.png" group-title="News",Canal PyC
+https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalReusTV.es" tvg-logo="https://i.imgur.com/HYRc9sJ.png" group-title="General",Canal Reus TV
 https://liveingesta318.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRicos.br" tvg-logo="https://i.imgur.com/hs2YVJ3.png" group-title="General",Canal Ricos
@@ -4487,7 +4487,7 @@ https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTINF:-1 tvg-id="EcuaMundoRadioTV.ec" tvg-logo="https://i.imgur.com/EMe5oWn.jpg" group-title="Music",EcuaMundo Radio TV
 https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
-#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-logo="https://i.imgur.com/cma6WO0.png" group-title="General",Ecuador TV
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="General",Ecuador TV
 https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="General",Ecuavisa
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
@@ -7269,6 +7269,8 @@ https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/p
 https://mlb.essastream.com:8081/lacaletatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaCantinaMemorias.co" tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/34751741_ico.png" group-title="Music",La Cantina Memorias
 https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8
+#EXTINF:-1 tvg-id="LaCheverisimaRadioTV.co" tvg-logo="https://i.imgur.com/lk5D5kB.png" group-title="Entertainment",La Cheverisima Radio TV
+https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="LaDescargaTV.do" tvg-logo="https://ladescargatv.com/wp-content/uploads/2026/03/file_00000000863461f8844305726f78ecbd-1-Photoroom-2.jpg" group-title="General",La Descarga TV
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 tvg-id="LaFabulosaTV.pe" tvg-logo="https://i.imgur.com/GjME5H0.png" group-title="Music",La Fabulosa TV
@@ -12627,6 +12629,8 @@ https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
 https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc112/studiomedtvhdraw/studiomedtvhdraw.mpd
 #EXTINF:-1 tvg-id="StudiyaFakt.ru" tvg-logo="https://i.imgur.com/y73pRGZ.png" group-title="Sin categoría",Studiya Fakt
 https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SuMundoTV.do" tvg-logo="https://i.imgur.com/twGGfJr.png" group-title="General",Su Mundo TV
+https://appapi.sumundotv.com/api/stream-proxy/4pf8yy3WF1xp1_tQ6yUYRIsbwyLc3qxDRcZAY_NLNDs/playlist.m3u8
 #EXTINF:-1 tvg-id="Subbota.ru" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="Sin categoría",Subbota!
 http://31.148.48.15/Super/index.m3u8
 #EXTINF:-1 tvg-id="SubhartiTV.in" tvg-logo="https://i.imgur.com/9hdNFtt.png" group-title="Sin categoría",Subharti TV
@@ -14521,6 +14525,8 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TelerumbaTV.do" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3649-294x165-FFFFFF.jpg" group-title="Music",Telerumba TV
 https://inliveserver.com:1936/18506/18506/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesangil.co" tvg-logo="https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png" group-title="General",Telesangil
+https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesantodomingo.do" tvg-logo="https://i.imgur.com/hw64asF.jpeg" group-title="General",Telesantodomingo
 https://vdopanel.jlahozconsulting.com:3769/live/santodomingolive.m3u8
 #EXTINF:-1 tvg-id="Teleselva.pe" tvg-logo="https://i.imgur.com/cu7hTn8.png" group-title="Sin categoría",Teleselva
