@@ -45,8 +45,6 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-id="13SiamThai.th" tvg-logo="https://i.imgur.com/FvEp1S2.png" group-title="News",13 Siam Thai
 https://live.x2.co.th/live/13livetv-th.m3u8
-#EXTINF:-1 tvg-id="13Ulica.pl" tvg-logo="https://i.imgur.com/0gCNnLq.png" group-title="Entertainment",13 Ulica
-http://116.90.120.151:8000/play/a0l4/index.m3u8
 #EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="Culture",13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="13E.cl" tvg-logo="https://i.imgur.com/utI1tJV.png" group-title="Entertainment",13E
@@ -3551,6 +3549,8 @@ http://116.90.120.151:8000/play/a0kl/index.m3u8
 http://103.229.254.25:7001/play/a0du/index.m3u8
 #EXTINF:-1 tvg-id="ColorsRishteyAsia.in" tvg-logo="https://dtil.tmsimg.com/assets/s158239_ld_h15_aa.png?lock=720x540" group-title="General",Colors Rishtey Asia
 http://116.90.120.151:8000/play/a0ku/index.m3u8
+#EXTINF:-1 tvg-id="ColorsTamil.in" tvg-logo="https://dtil.tmsimg.com/assets/s158241_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Colors Tamil
+http://ptu.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Entertainment",Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Sports",Combate
@@ -4147,6 +4147,8 @@ http://116.90.120.151:8000/play/a0hp/index.m3u8
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation",Disney Jr.
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Kids",Disney Junior
+https://bbb.exoadash.com/TVD1561/index.mpd
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids",Disney Junior
 https://tvpass.org/live/DisneyJuniorEast/hd
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids",Disney XD
@@ -4297,8 +4299,6 @@ https://n5.stv.livebox.sk/stv-tv/addfd31846e34200883cc2b4e9e6c855/stv2.smil/play
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8
 #EXTINF:-1 tvg-id="E24.in" tvg-logo="https://i.imgur.com/vCaPNTe.png" group-title="Entertainment",E 24
 https://mumt04.tangotv.in/E24/index.m3u8
-#EXTINF:-1 tvg-id="E.pl" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Entertainment",E!
-http://116.90.120.151:8000/play/a0kz/index.m3u8
 #EXTINF:-1 tvg-id="E.us" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Entertainment",E!
 https://tvpass.org/live/EEast/hd
 #EXTINF:-1 tvg-id="EKeepingUp.us" tvg-logo="https://i.imgur.com/9F7VYDM.png" group-title="Entertainment",E! Keeping Up
@@ -7141,6 +7141,8 @@ https://live2.telvi.de/hls/l-tv_s1.m3u8
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
 #EXTINF:-1 tvg-id="LaltroCorriereTV.it" tvg-logo="https://i.imgur.com/05YWVCq.png" group-title="News",L'altro Corriere TV
 https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="L1Max.pe" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports",L1 Max
+https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8
 #EXTINF:-1 tvg-id="L1TV.nl" tvg-logo="https://i.imgur.com/SDD5KS5.png" group-title="General",L1 TV
 https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-id="LACityView35.us" tvg-logo="https://i.imgur.com/3PnD83G.png" group-title="Legislative",LA CityView 35
@@ -12432,7 +12434,7 @@ https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 #EXTINF:-1 tvg-id="Sport.sk" tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="Sports",Sport
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="Sports",Sportdigital FUSSBALL
-https://live20.bozztv.com/akamaissh101/ssh101/sportdigtal1/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/sddd1hdde/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Sports",Sportitalia
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia24.it" tvg-logo="https://i.imgur.com/RSwnoLn.png" group-title="Sports",Sportitalia 24
@@ -12483,6 +12485,8 @@ http://116.90.120.151:8000/play/a0gw/index.m3u8
 https://stream.castr.com/651d8d36a57bf232bc830464/live_01fd9e80636111eebd0da35d4eac7f71/index.m3u8
 #EXTINF:-1 tvg-id="StarMaaGold.in" tvg-logo="https://dtil.tmsimg.com/assets/s143822_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Star Maa Gold
 http://103.121.6.5:8000/play/a063/index.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Movies
+http://ptu.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Movies Select
 http://116.90.120.151:8000/play/a0ij/index.m3u8
 #EXTINF:-1 tvg-id="StarPlusTelevizija.mk" tvg-logo="https://i.imgur.com/01yz22a.png" group-title="Music",Star Plus Televizija
@@ -15451,8 +15455,12 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 https://straume.vdtv.lv/vdtv2/index.m3u8
 #EXTINF:-1 tvg-id="VietnamToday.vn" tvg-logo="https://i.imgur.com/xW9rY7s.png" group-title="Sin categoría",Vietnam Today
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
+#EXTINF:-1 tvg-id="VijaySuper.in" tvg-logo="https://dtil.tmsimg.com/assets/s158319_ld_h15_aa.png?lock=720x540" group-title="Movies",Vijay Super
+http://ptu.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8
 #EXTINF:-1 tvg-id="VillaAltagraciaTV.do" tvg-logo="https://i.imgur.com/uQAeKKa.png" group-title="General",Villa Altagracia TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
+#EXTINF:-1 tvg-id="VillageTV.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png" group-title="Religious",Village TV
+https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-logo="https://i.imgur.com/5YFsqPx.png" group-title="News",Vinh Long TV 1
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VintageMusic.cr" tvg-logo="https://i.imgur.com/KImqYnN.jpeg" group-title="Music",Vintage Music
@@ -16286,9 +16294,11 @@ http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/ZEE/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S299.png?lock=720x540" group-title="Movies",Zee Talkies
 http://116.90.120.151:8000/play/a0io/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTamil.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" group-title="Entertainment",Zee Tamil
-http://103.161.153.165:8000/play/a05z/index.m3u8
+http://ptu.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTeluguNews.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023178R.png?lock=720x540" group-title="News",Zee Telugu News
 https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
+#EXTINF:-1 tvg-id="ZeeThirai.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S9BF.png?lock=720x540" group-title="Movies",Zee Thirai
+http://ptu.ridsys.in/riptv/live/ZEE_THIRAI/index.m3u8
 #EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002317GQ.png?lock=720x540" group-title="News",Zee Uttar Pradesh/Uttarakhand
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="ZeeZest.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZKWY.png?lock=720x540" group-title="Lifestyle",Zee Zest
