@@ -370,7 +370,7 @@ https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
 #EXTINF:-1 tvg-id="ABNAfrica.us" tvg-logo="https://i.imgur.com/SLrX8Ef.png" group-title="Religious",ABN Africa
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-logo="https://dtil.tmsimg.com/assets/s142517_ld_h15_aa.png?lock=720x540" group-title="News",ABN Andhra Jyoti
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abn-andhra-jyothy/index.m3u8?ads.vf=UlAYFOs6jHe
+https://d18a8tqmogafg2.cloudfront.net/abnandhrajyothy/playlist.m3u8
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="Religious",ABN Bible Movies Channel
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 tvg-id="ABNChina.us" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="Religious",ABN China
@@ -1017,6 +1017,8 @@ https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="AllWeddingsWEtv.us" tvg-logo="https://i.imgur.com/OjLCew5.png" group-title="Series",All Weddings WE tv
 https://pb-amiq9wz02dhco.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Allegro.id" tvg-logo="https://hosting.renderforestsites.com/35126779/1641352/media/6c62ae7035277fc1677e1a5812475f27.png" group-title="General",Allegro
+https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8
 #EXTINF:-1 tvg-id="AllgauTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/960px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" group-title="General",Allgau TV
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AlmaTV.it" tvg-logo="https://i.imgur.com/MfFOnJp.png" group-title="Lifestyle",Alma TV
@@ -1502,9 +1504,9 @@ http://115.42.65.142:9981/stream/channelid/1099703605
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" group-title="Movies",B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" group-title="Movies",B4U Movies
-https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/b4u-movies-apac
+https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Music",B4U Music
-https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/b4u-music
+http://103.213.31.109:90/B4UMusic/playlist.m3u8
 #EXTINF:-1 tvg-id="BAMOSTV.mx" tvg-logo="https://i.imgur.com/ntK4D64.png" group-title="Religious",BAMOS TV
 https://video2.getstreamhosting.com:19360/8092/8092.m3u8
 #EXTINF:-1 tvg-id="BATV.us" tvg-logo="https://i.imgur.com/nTeE4xu.png" group-title="General",BATV
@@ -1755,6 +1757,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
 http://bst.bratsk.ru/hls/bst2/index.m3u8
 #EXTINF:-1 tvg-id="BSTV.hk" tvg-logo="https://i.imgur.com/GVYSSgm.png" group-title="Shop",BSTV
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="BTTV.in" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/resource/img/best-bank-new.png" group-title="News",BT TV
+https://feeds.intoday.in/bttv/itgd.m3u8
 #EXTINF:-1 tvg-id="BTATV.ve" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="Music",BTA TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-id="BTB.pl" tvg-logo="https://i.imgur.com/U8mcRal.png" group-title="General",BTB
@@ -5095,6 +5099,8 @@ https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="FlicksofFury.us" tvg-logo="https://i.imgur.com/rtL5L81.png" group-title="Movies",Flicks of Fury
 https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
+#EXTINF:-1 tvg-id="FloRacing.us" tvg-logo="https://a.jsrdn.com/hls/22883/floracing-247/logo_20231219_225054_24.png" group-title="Sports",FloRacing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FlowersTV.in" tvg-logo="https://dtil.tmsimg.com/assets/s143065_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Flowers TV
 http://103.72.101.252:8080/live/634.m3u8
 #EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png" group-title="Culture",Flowers TV USA
@@ -11939,6 +11945,8 @@ https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1 tvg-id="SCTV1.vn" tvg-logo="https://i.imgur.com/UcMXcHF.png" group-title="Sin categoría",SCTV1
 https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
+#EXTINF:-1 tvg-id="SCTV16.vn" tvg-logo="https://i.imgur.com/ldCYtvt.png" group-title="Sin categoría",SCTV16
+https://liveh34.vtvprime.vn/hls/SCTV16/03.m3u8
 #EXTINF:-1 tvg-id="SCTV2.vn" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="Sin categoría",SCTV2
 https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
 #EXTINF:-1 tvg-id="SCTV4.vn" tvg-logo="https://i.imgur.com/qkZhzQq.png" group-title="Sin categoría",SCTV4
