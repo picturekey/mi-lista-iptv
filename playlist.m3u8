@@ -590,7 +590,7 @@ https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
 #EXTINF:-1 tvg-id="AWTV.br" tvg-logo="https://i.imgur.com/2tdMyef.png" group-title="Classic",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia
-http://103.58.160.157:8278/720-AXN/playlist.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Latin America
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
 #EXTINF:-1 tvg-id="AadinathTV.in" tvg-logo="https://dtil.tmsimg.com/assets/s142505_ld_h15_aa.png?lock=720x540" group-title="Religious",Aadinath TV
@@ -1454,7 +1454,7 @@ https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="General",Autentica Television
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="AutoPlus.ru" tvg-logo="https://i.imgur.com/sVc8cFt.png" group-title="Auto",Auto Plus
-http://31.148.48.15/Avto_Plus/index.m3u8
+http://tmptv.sunduk.tv/CH49/index.m3u8
 #EXTINF:-1 tvg-id="AvangTV.us" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Avang TV
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AvarTV.iq" tvg-logo="https://i.imgur.com/JazFBkW.jpeg" group-title="Sin categoría",Avar TV
@@ -7253,10 +7253,18 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 http://83.167.253.107/hdmi1_ext
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-logo="https://i.imgur.com/sMpamNO.png" group-title="Movies",Kino TV
 https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 tvg-id="KinoHit.ru" tvg-logo="https://i.imgur.com/Ge8vkQM.png" group-title="Movies",KinoHit
+http://tmptv.sunduk.tv/CH57/index.m3u8
 #EXTINF:-1 tvg-id="KinoSat.ru" tvg-logo="https://i.imgur.com/7KsNvBz.png" group-title="Movies",KinoSat
 http://31.148.48.15/Kineko/index.m3u8
+#EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-logo="https://i.imgur.com/dVjtth0.png" group-title="Comedy",Kinokomedija
+http://tmptv.sunduk.tv/CH47/index.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="Movies",Kinopokaz
 http://31.148.48.15/Kinopokaz/index.m3u8
+#EXTINF:-1 tvg-id="Kinosemja.ru" tvg-logo="https://i.imgur.com/4BF5VeK.png" group-title="Movies",Kinosemja
+http://tmptv.sunduk.tv/CH25/index.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-logo="https://i.imgur.com/ZRaWqxj.png" group-title="Movies",Kinosvidanie
+http://tmptv.sunduk.tv/CH21/index.m3u8
 #EXTINF:-1 tvg-id="Kinoteatr.uz" tvg-logo="https://i.imgur.com/emH1BgC.png" group-title="Movies",Kinoteatr
 https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="KishTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/14/Kish_tv.svg/960px-Kish_tv.svg.png" group-title="General",Kish TV
@@ -11822,7 +11830,7 @@ https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="Sin categoría",Rodja TV
 https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-logo="https://i.imgur.com/H70LxoZ.png" group-title="Movies",Rodnoe Kino
-http://31.148.48.15/Rodnoe_kino/index.m3u8
+http://tmptv.sunduk.tv/CH23/index.m3u8
 #EXTINF:-1 tvg-id="Rohi.pk" tvg-logo="https://i.imgur.com/zC8hXi4.png" group-title="Sin categoría",Rohi
 http://103.250.28.74:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="RojaMovies.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" group-title="Movies",Roja Movies
@@ -13086,7 +13094,7 @@ https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperChannel12.mx" tvg-logo="https://i.imgur.com/dLHIvKz.png" group-title="General",Super Channel 12
 https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 tvg-id="SuperDigitalTV.do" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3431-294x165-FFFFFF.jpg" group-title="General",Super Digital TV
-https://inliveserver.com:1936/11516/11516/playlist.m3u8
+https://stream.inliveserver.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="SuperExpressTV.pl" tvg-logo="https://i.imgur.com/HuIsALV.png" group-title="News",Super Express TV
 https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
 #EXTINF:-1 tvg-id="SuperJTVTeramo.it" tvg-logo="https://i.imgur.com/H3uItqg.png" group-title="Sin categoría",Super J TV Teramo
