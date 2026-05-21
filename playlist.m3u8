@@ -7302,7 +7302,7 @@ https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1 tvg-id="KurdistanTV.iq" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="General",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Kurdsat.iq" tvg-logo="https://i.imgur.com/UAbSwYA.png" group-title="Entertainment",Kurdsat
-https://iko-live.akamaized.net/KurdsatTV/master.m3u8
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 #EXTINF:-1 tvg-id="KurdsatNews.iq" tvg-logo="https://i.imgur.com/F3XRwkt.png" group-title="News",Kurdsat News
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Movies",Kuriakos Cine
@@ -7853,8 +7853,6 @@ https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/ind
 https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCIraq.iq" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="General",MBC Iraq
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
-#EXTINF:-1 tvg-id="MBCLoud.sa" tvg-logo="https://i.imgur.com/mptwwLs.png" group-title="Music",MBC Loud
-https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasr.eg" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="General",MBC Masr
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasr2.eg" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="General",MBC Masr 2
@@ -15181,8 +15179,6 @@ https://jmp2.uk/plu-5d51e791b7dba3b2ae990ab2.m3u8
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 #EXTINF:-1 tvg-id="Thmanyah1.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png" group-title="Sports",Thmanyah 1
 https://dflive.app.tc/20.m3u8
-#EXTINF:-1 tvg-id="Thmanyah2.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png" group-title="Sports",Thmanyah 2
-https://dflive.app.tc/60.m3u8
 #EXTINF:-1 tvg-id="Thmanyah3.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png" group-title="Sports",Thmanyah 3
 https://dflive.app.tc/61.m3u8
 #EXTINF:-1 tvg-id="Thornton8.us" tvg-logo="https://i.imgur.com/C013OWn.png" group-title="Legislative",Thornton 8
@@ -16457,6 +16453,12 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 #EXTINF:-1 tvg-id="WhakaataMaori.nz" tvg-logo="https://i.imgur.com/oT3PrHZ.png" group-title="Sin categoría",Whakaata Maori
 https://i.mjh.nz/.r/maori-tv.m3u8
+#EXTINF:-1 tvg-id="Whiplash.us" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png" group-title="General",Whiplash
+https://cdn.whiplash.cc/whiplash/index.m3u8
+#EXTINF:-1 tvg-id="WhiplashCinema.us" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png" group-title="Movies",Whiplash Cinema
+https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
+#EXTINF:-1 tvg-id="WhiplashII.us" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash2.png" group-title="General",Whiplash II
+https://cdn.whiplash.cc/whiplash-2/index.m3u8
 #EXTINF:-1 tvg-id="WhiteChannel.th" tvg-logo="https://i.imgur.com/Chx0AV9.png" group-title="Sin categoría",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 tvg-id="WhitePlainsCommunityMedia.us" tvg-logo="https://i.imgur.com/XGQfBbW.png" group-title="Sin categoría",White Plains Community Media
@@ -16485,6 +16487,8 @@ http://190.60.40.34:8001/play/a0ef
 https://cdn-4.pishow.tv/live/1531/master.m3u8
 #EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Sports",Win+ Futbol
 http://190.60.40.34:8001/play/a02r
+#EXTINF:-1 tvg-id="WindowTV.us" tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png" group-title="Sin categoría",Window TV
+https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 #EXTINF:-1 tvg-id="WineWatchesWhiskey.us" tvg-logo="https://i.imgur.com/MN89dfS.png" group-title="Sin categoría",Wine Watches & Whiskey
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wine-watches-whiskey/index.m3u8?ads.vf=3HDBWa0Eh40
 #EXTINF:-1 tvg-id="WipeoutXtra.us" tvg-logo="https://i.imgur.com/UDeCRW1.png" group-title="Entertainment",Wipeout Xtra
