@@ -283,6 +283,8 @@ http://89.33.29.115:8080/sportplus/index.m3u8
 http://str2.iptvhd.ru:8080/5sport/index.m3u8
 #EXTINF:-1 tvg-id="5Sport4K.il" tvg-logo="https://i.imgur.com/Msfhpqd.png" group-title="Sports",5Sport 4K
 http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8
+#EXTINF:-1 tvg-id="5Stars.il" tvg-logo="https://i.imgur.com/IQtAKIa.png" group-title="Sports",5Stars
+http://89.33.29.115:8080/IL_5Stars/index.m3u8
 #EXTINF:-1 tvg-id="5tv.ar" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",5tv
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="6TVGorlovka.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TV_6_HD_%E2%80%93_logo.png" group-title="General",6 TV Gorlovka
@@ -2995,6 +2997,8 @@ https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlis
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="CableImagenArmstrong.ar" tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="Sin categoría",Cable Imagen Armstrong
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="News",Cablenoticias
+http://181.78.211.244:8005/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="CaboFrioTV.br" tvg-logo="https://i.imgur.com/mPi6Wp3.png" group-title="Entertainment",Cabo Frio TV
 https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
 #EXTINF:-1 tvg-id="CadenaA.bo" tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="General",Cadena A
@@ -4873,6 +4877,8 @@ https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 http://213.91.179.28:8000/play/a059
 #EXTINF:-1 tvg-id="DisneyChannel.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel
 http://88.212.15.19/live/test_disney/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel
+http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
 #EXTINF:-1 tvg-id="DisneyChannel.hu" tvg-logo="https://i.imgur.com/aOa73uT.png" group-title="Kids",Disney Channel
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel
@@ -6455,6 +6461,8 @@ http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
 http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Movies",Golden Premier
 https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD
+#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-logo="https://i.imgur.com/GBlvQBI.png" group-title="Movies",Golden Premier 2
+http://200.229.147.210:9999/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-logo="https://dtil.tmsimg.com/assets/s143087_ld_h15_aa.png?lock=720x540" group-title="Movies",Goldmines
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines2.in" tvg-logo="" group-title="Movies",Goldmines 2
@@ -12645,6 +12653,8 @@ http://str2.iptvhd.ru:8080/pro_lyubov/index.m3u8
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-logo="https://i.imgur.com/zZOk3nh.png" group-title="Sin categoría",ProSieben
 http://85.187.13.40:18000/ProSieben
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png" group-title="Sin categoría",ProSieben Maxx
+http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca" tvg-logo="https://i.imgur.com/7oTsfQ4.png" group-title="News",Probashi TV News
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-id="ProclamacionTV.ve" tvg-logo="https://i.imgur.com/8dt7awY.jpeg" group-title="Religious",Proclamacion TV
@@ -12896,7 +12906,7 @@ https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNHD2.co" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="General",RCN HD2
 http://181.78.14.26:4000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Mas
-https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8
+http://45.226.205.96:48000/play/a0af/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Entertainment",RCN Novelas
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="General",RCTI
@@ -15225,6 +15235,8 @@ https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 https://jmp2.uk/plu-69a554497ed3b3fff0b9ca80.m3u8
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Animation",Spacetoon Arabic
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
+#EXTINF:-1 tvg-id="SpacetoonTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png" group-title="Animation",Spacetoon Turkey
+https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
 #EXTINF:-1 tvg-id="SparkTV.uk" tvg-logo="https://i.imgur.com/svc98Kg.png" group-title="Sin categoría",Spark TV
 https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Spas.ru" tvg-logo="https://i.imgur.com/yY39nMg.png" group-title="Religious",Spas
@@ -15279,8 +15291,12 @@ http://88.212.15.19/live/sport2_hun/index.m3u8
 http://str2.iptvhd.ru:8080/Sport_2/index.m3u8
 #EXTINF:-1 tvg-id="Sport2.ua" tvg-logo="https://i.imgur.com/vk0j1mY.png" group-title="Sports",Sport 2
 http://stream.mcquack.net/392/index.m3u8
+#EXTINF:-1 tvg-id="Sport3.il" tvg-logo="https://i.imgur.com/stSrBBh.png" group-title="Sports",Sport 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8
 #EXTINF:-1 tvg-id="Sport3.ua" tvg-logo="https://i.imgur.com/qkvavfH.png" group-title="Sports",Sport 3
 http://stream.mcquack.net/393/index.m3u8
+#EXTINF:-1 tvg-id="Sport4.il" tvg-logo="https://i.imgur.com/wFXzzYs.png" group-title="Sports",Sport 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8
 #EXTINF:-1 tvg-id="Sport4.ua" tvg-logo="https://i.imgur.com/xW6oGIx.png" group-title="Sports",Sport 4
 http://stream.mcquack.net/394/index.m3u8
 #EXTINF:-1 tvg-id="Sport5.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sport5UA.jpg" group-title="Sports",Sport 5
@@ -17379,6 +17395,8 @@ https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="TeleGohelle.fr" tvg-logo="https://i.imgur.com/Oa3Pwbf.png" group-title="General",TeleGohelle
 https://videas.agglo-lenslievin.fr/index.m3u8
+#EXTINF:-1 tvg-id="TeleHit.mx" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Music",TeleHit
+http://200.115.120.1:8000/play/ca048/index.m3u8
 #EXTINF:-1 tvg-id="TeleMBotosani.ro" tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="General",TeleM Botosani
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMIX.us" tvg-logo="https://i.ibb.co/HpX99Ks/unnamed.jpg" group-title="Entertainment",TeleMIX
@@ -19745,6 +19763,8 @@ https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8
 https://ic3hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="kabeleins.de" tvg-logo="https://i.imgur.com/6pulSHZ.png" group-title="Entertainment",kabel eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="kabeleinsDoku.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png" group-title="Documentary",kabel eins Doku
+http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass
 #EXTINF:-1 tvg-id="labor14.de" tvg-logo="https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg" group-title="Sin categoría",labor14
 https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="m2oTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png" group-title="Music",m2o TV
