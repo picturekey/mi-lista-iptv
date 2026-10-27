@@ -3793,6 +3793,8 @@ https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
 https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.pl" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" group-title="Animation",Cartoon Classics
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+#EXTINF:-1 tvg-id="CartoonClassics.ru" tvg-logo="https://sales.planbkino.tv//b/c/471.png" group-title="Kids",Cartoon Classics
+http://88.218.242.237:8001/Cartoon_Classics
 #EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png?lock=720x540" group-title="Animation",Cartoon Network
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",Cartoon Network
@@ -7183,7 +7185,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9
 https://dethich.pw/htv7/index.m3u8
 #EXTINF:-1 tvg-id="HTV9.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp" group-title="News",HTV9
 https://dethich.pw/htv9/index.m3u8
-#EXTINF:-1 tvg-id="HTVCFamily.vn" tvg-logo="" group-title="Family",HTVC Family
+#EXTINF:-1 tvg-id="HTVCFamily.vn" tvg-logo="https://i.ibb.co/BVQtkHgF/IMG-2899.png" group-title="Family",HTVC Family
 https://dethich.pw/htvcgiadinh/index.m3u8
 #EXTINF:-1 tvg-id="HTVCMovies.vn" tvg-logo="" group-title="Series",HTVC Movies
 https://dethich.pw/htvcphim/index.m3u8
@@ -14789,8 +14791,6 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
 #EXTINF:-1 tvg-id="SCTV4.vn" tvg-logo="https://i.imgur.com/qkZhzQq.png" group-title="Sin categoría",SCTV4
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
-#EXTINF:-1 tvg-id="SCTV4K.vn" tvg-logo="https://i.imgur.com/eQVMAur.png" group-title="Sin categoría",SCTV4K
-https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 #EXTINF:-1 tvg-id="SCTV6.vn" tvg-logo="https://i.imgur.com/2oOVS42.png" group-title="Sin categoría",SCTV6
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
 #EXTINF:-1 tvg-id="SCTV7.vn" tvg-logo="https://i.imgur.com/xbIUZYd.png" group-title="Sin categoría",SCTV7
@@ -16103,7 +16103,7 @@ https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
 https://jmp2.uk/plu-62f2ce24f328e00007e7f55a.m3u8
 #EXTINF:-1 tvg-id="StoryTelevision.us" tvg-logo="https://i.imgur.com/w7Iee6P.png" group-title="Sin categoría",Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Story4.hu" tvg-logo="https://i.imgur.com/pJsLyiv.png" group-title="Sin categoría",Story4
+#EXTINF:-1 tvg-id="Story4.hu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Story4_CZ_2026.svg/revision/latest?cb=20260905012248" group-title="Sin categoría",Story4
 http://88.212.7.14/live/story_4_cze_atk/index.m3u8
 #EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-logo="https://i.imgur.com/ZBV6xph.png" group-title="Culture",StoryChannel TV
 https://136044159.r.cdnsun.net/storychannel.m3u8
