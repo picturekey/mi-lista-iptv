@@ -17335,7 +17335,7 @@ http://151.236.247.171:8080/nova/index.m3u8
 https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNatal.br" tvg-logo="https://i.imgur.com/wqQmQml.png" group-title="General",TV Natal
 http://185.228.163.146:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="TVNiksic.me" tvg-logo="https://i.imgur.com/51fGwzn.png" group-title="Sin categoría",TV Niksic
+#EXTINF:-1 tvg-id="TVNiksic.me" tvg-logo="https://i.imgur.com/51fGwzn.png" group-title="General",TV Niksic
 https://tv.rtv-niksic.me/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TVNitricka.sk" tvg-logo="https://i.imgur.com/iwWyG1A.png" group-title="General",TV Nitricka
 https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
@@ -17789,13 +17789,13 @@ https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 #EXTINF:-1 tvg-id="TVCARiBLatino.sx" tvg-logo="https://i.imgur.com/fvGlwKo.png" group-title="Entertainment",TVCARiB Latino
 https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
-#EXTINF:-1 tvg-id="TVCG1.me" tvg-logo="https://i.imgur.com/QORHrXu.png" group-title="Sin categoría",TVCG 1
+#EXTINF:-1 tvg-id="TVCG1.me" tvg-logo="https://i.imgur.com/QORHrXu.png" group-title="General",TVCG 1
 https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCG2.me" tvg-logo="https://i.imgur.com/WECmUKH.png" group-title="Sin categoría",TVCG 2
+#EXTINF:-1 tvg-id="TVCG2.me" tvg-logo="https://i.imgur.com/WECmUKH.png" group-title="General",TVCG 2
 https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCG3.me" tvg-logo="https://i.imgur.com/0ZT3Bc2.png" group-title="Legislative",TVCG 3
 https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCGMNE.me" tvg-logo="https://i.imgur.com/pf8VEwf.png" group-title="Sin categoría",TVCG MNE
+#EXTINF:-1 tvg-id="TVCGMNE.me" tvg-logo="https://i.imgur.com/pf8VEwf.png" group-title="General",TVCG MNE
 https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCOMMaceio.br" tvg-logo="https://i.imgur.com/IE7IZzi.png" group-title="General",TVCOM Maceio
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
